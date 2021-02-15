@@ -37,3 +37,15 @@ We have developed the application to function in the following manner:
 ![image1](https://user-images.githubusercontent.com/47854537/107925044-e7871080-6f99-11eb-99d5-295ccc5214de.png)
 
 
+# Website Walkthrough:
+
+#### Video 1:
+https://drive.google.com/file/d/1VkmRJQIpME4N7yPNvGvuQQkP84yzBBmn/view?usp=sharing
+
+#### Video 2:
+https://drive.google.com/file/d/1KvyghviMDpu16mpURCof92qTYoJCs0d2/view?usp=sharing
+
+#### Video 3:
+https://drive.google.com/file/d/15PENPdXB-k0zyJhTVfjLvRAo5hBoperN/view?usp=sharing
+
+
