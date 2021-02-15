@@ -33,5 +33,7 @@ We have developed the application to function in the following manner:
 #### Staff Members will be able to view data regarding their work schedules. They will also have access to records pertaining to room status and demands/grievances of customers.  <br />
 #### Customers will be able to sign up and view the availability status of each individual room. They will be able to thereby process transactions and continue with booking rooms as required. Moreover, they will be able to lodge their demands and complaints (if any) into the system for the hotel authorities to act upon.  <br />
 
+# ER Diagram
+![image1](https://user-images.githubusercontent.com/47854537/107925044-e7871080-6f99-11eb-99d5-295ccc5214de.png)
 
 
